@@ -1,2 +1,6 @@
-# gads-2020
-Google Africa Developer Scholarship Phase II.  Google Cloud Practice Project
+### Google Africa Developer Scholarship Phase II.  Google Cloud Practice Project
+
+# Usage
+Proof for the Quicklabs hands on labs can be found in the [/Screenshots](Screenshots folder)
+
+Translation of selected labs from Console to 100% command line instructions can be found in the [/Translation](Translation folder)
