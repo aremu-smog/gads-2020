@@ -10,3 +10,4 @@
 - **8.PNG** (Google Cloud Fundamentals: Getting Started with Compute Engine)
 - **9.PNG** (App Dev - Debugging Application Errors: Node.js)
 - **10.PNG** (App Dev - Deploying the Application into App Engine Flexible Environment: Node.js)
+- **11.PNG** (Classifying Images of Clouds in the Cloud with AutoML Vision)
